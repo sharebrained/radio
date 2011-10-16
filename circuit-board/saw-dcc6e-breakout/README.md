@@ -71,5 +71,6 @@ This design is licensed under a
 Contact
 =======
 
-[ShareBrained Technology, Inc.]
+ShareBrained Technology, Inc.
+[http://www.sharebrained.com/]
 (http://www.sharebrained.com/)
