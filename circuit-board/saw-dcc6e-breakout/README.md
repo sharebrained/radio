@@ -34,7 +34,8 @@ frequency.
   (http://www.epcos.com/inf/40/ds/ae/B3741.pdf)
 * C1,2: 1.8pF, 0402, C0G
 * L1,2: 68nH, 0603
-* J1,2: SMA jack, Emerson 142-0701-801
+* J1,2: SMA jack, [Emerson 142-0701-801]
+  (http://www.emersonconnectivity.com/OA_MEDIA/drawings/dr-1420701801.pdf)
 
 For 433 MHz
 -----------
@@ -48,8 +49,7 @@ frequency.
   (http://www.epcos.com/inf/40/ds/ae/B3743.pdf)
 * C1,2: do not insert
 * L1,2: 39nH, 0603
-* J1,2: SMA jack,
-  [Emerson 142-0701-801]
+* J1,2: SMA jack, [Emerson 142-0701-801]
   (http://www.emersonconnectivity.com/OA_MEDIA/drawings/dr-1420701801.pdf)
 
 Requirements
@@ -95,5 +95,4 @@ Contact
 
 ShareBrained Technology, Inc.
 
-[http://www.sharebrained.com/]
-(http://www.sharebrained.com/)
+<http://www.sharebrained.com/>
