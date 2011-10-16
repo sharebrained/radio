@@ -65,12 +65,19 @@ Files
 =====
 
 * saw-dcc6e-breakout.sch:
+
   Schematic for circuit board, drawn in EAGLE 5.11.
+
 * saw-dcc6e-breakout.brd:
+
   Circuit board layout, drawn in EAGLE 5.11.
+
 * saw-dcc6e-breakout.dru:
+
   EAGLE design rules used to validate schematic and PCB.
+
 * saw-dcc6e-breakout-laen4.cam:
+
   EAGLE CAM file used to generate Gerber RS-274X files for
   circuit board production via
   [Laen's four-layer PCB Order]
