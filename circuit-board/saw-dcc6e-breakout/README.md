@@ -12,8 +12,8 @@ This board has been fabricated but not yet assembled and
 tested, so its functionality is not verified. Use this
 design at your own risk.
 
-Intended Components
-===================
+Bill of Materials
+=================
 
 This board was designed with the EPCOS B39321B3741H110
 (315 MHz) and EPCOS B39431B3743H110 (433 MHz) SAW filters
@@ -21,9 +21,10 @@ in mind.
 
 For 315 MHz
 -----------
-EPCOS B39321B3741H110 band-pass SAW filter, 314.82 to
-315.18 MHz (360 kHz bandwidth), in package DCC6E
-(3.0 x 3.0 x 1.0 mm). Available at Mouser.
+
+Use EPCOS B39321B3741H110 band-pass SAW filter, 314.82
+to 315.18 MHz (360 kHz bandwidth), in package DCC6E
+(3.0 x 3.0 x 1.0 mm).
 
 Bill of materials:
 
@@ -35,9 +36,9 @@ Bill of materials:
 For 433 MHz
 -----------
 
-EPCOS B39431B3743H110 band-pass SAW filter, 433.75 to
-434.09 MHz (340 kHz bandwidth), in package DCC6E
-(3.0 x 3.0 x 1.0 mm). Available at Digi-Key and Mouser.
+Use EPCOS B39431B3743H110 band-pass SAW filter, 433.75
+to 434.09 MHz (340 kHz bandwidth), in package DCC6E
+(3.0 x 3.0 x 1.0 mm).
 
 Bill of materials:
 
