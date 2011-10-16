@@ -17,14 +17,18 @@ Bill of Materials
 
 This board was designed with the EPCOS B39321B3741H110
 (315 MHz) and EPCOS B39431B3743H110 (433 MHz) SAW filters
-in mind.
+in mind. It should support any < 3 GHz SAW filter
+compatible with the EPCOS DCC6E package and pin-out. See
+the corresponding SAW filter component datasheet for
+further details.
 
 For 315 MHz
 -----------
 
-Use EPCOS B39321B3741H110 band-pass SAW filter, 314.82
-to 315.18 MHz (360 kHz bandwidth), in package DCC6E
-(3.0 x 3.0 x 1.0 mm).
+The EPCOS B39321B3741H110 band-pass SAW filter -3dB
+pass-band is between 314.82 and 315.18 MHz (360 kHz).
+Attenuation is better than 50dB at 10% from the center
+frequency.
 
 * X1: [EPCOS B39321B3741H110]
   (http://www.epcos.com/inf/40/ds/ae/B3741.pdf)
@@ -35,18 +39,18 @@ to 315.18 MHz (360 kHz bandwidth), in package DCC6E
 For 433 MHz
 -----------
 
-Use EPCOS B39431B3743H110 band-pass SAW filter, 433.75
-to 434.09 MHz (340 kHz bandwidth), in package DCC6E
-(3.0 x 3.0 x 1.0 mm).
+The EPCOS B39431B3743H110 band-pass SAW filter -3dB
+pass-band is between 433.75 and 434.09 MHz (340 kHz).
+Attenuation is better than 50dB at 10% from the center
+frequency.
 
 * X1: [EPCOS B39431B3743H110]
   (http://www.epcos.com/inf/40/ds/ae/B3743.pdf)
 * C1,2: do not insert
 * L1,2: 39nH, 0603
-* J1,2: SMA jack, Emerson 142-0701-801
-
-See the corresponding SAW filter component datasheet for
-further details.
+* J1,2: SMA jack,
+  [Emerson 142-0701-801]
+  (http://www.emersonconnectivity.com/OA_MEDIA/drawings/dr-1420701801.pdf)
 
 Requirements
 ============
@@ -60,7 +64,9 @@ will not be useful for editing this design.
 License
 =======
 
-This design is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+This design is licensed under a
+[Creative Commons Attribution-ShareAlike 3.0 Unported License]
+(http://creativecommons.org/licenses/by-sa/3.0/).
 
 Contact
 =======
