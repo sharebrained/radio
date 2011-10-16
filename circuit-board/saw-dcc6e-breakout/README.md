@@ -26,8 +26,6 @@ Use EPCOS B39321B3741H110 band-pass SAW filter, 314.82
 to 315.18 MHz (360 kHz bandwidth), in package DCC6E
 (3.0 x 3.0 x 1.0 mm).
 
-Bill of materials:
-
 * X1: EPCOS B39321B3741H110
 * C1,2: 1.8pF, 0402, C0G
 * L1,2: 68nH, 0603
@@ -39,8 +37,6 @@ For 433 MHz
 Use EPCOS B39431B3743H110 band-pass SAW filter, 433.75
 to 434.09 MHz (340 kHz bandwidth), in package DCC6E
 (3.0 x 3.0 x 1.0 mm).
-
-Bill of materials:
 
 * X1: EPCOS B39431B3743H110
 * C1,2: do not insert
