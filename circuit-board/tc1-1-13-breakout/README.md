@@ -48,19 +48,19 @@ will not be useful for editing this design.
 Files
 =====
 
-* tc1-1-13-breakout-breakout.sch:
+* tc1-1-13-breakout.sch:
 
     Schematic for circuit board, drawn in EAGLE 5.11.
 
-* tc1-1-13-breakout-breakout.brd:
+* tc1-1-13-breakout.brd:
 
     Circuit board layout, drawn in EAGLE 5.11.
 
-* tc1-1-13-breakout-breakout.dru:
+* tc1-1-13-breakout.dru:
 
     EAGLE design rules used to validate schematic and PCB.
 
-* tc1-1-13-breakout-breakout-laen4.cam:
+* tc1-1-13-breakout-laen4.cam:
 
     EAGLE CAM file used to generate Gerber RS-274X files for
     circuit board production via
