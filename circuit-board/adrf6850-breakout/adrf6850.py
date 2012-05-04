@@ -108,7 +108,8 @@ def set_lo(lo):
 
 init_list = (
     (30, 0x00), # VGA positive gain slope, VGA power-down
-    (29, 0x71), # internal Vocm, 30MHz cut-off, narrow-band, demod power-up
+    #(29, 0x71), # internal Vocm, 30MHz cut-off, narrow-band, demod power-up
+    (29, 0x31), # external Vocm, 30MHz cut-off, narrow-band, demod power-up
     (28, 0x0B), # (LO divide by 8: 100MHz to 125MHz
     (27, 0x00), # monitor output: power down, output -24dBm
     (26, 0x00),
