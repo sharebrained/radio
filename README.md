@@ -15,13 +15,13 @@ Projects
 ========
 
 * baseband_digitizer/
- * [adc-iq-2185-xp2/](radio/baseband_digitizer/adc-iq-2185-xp2/): An 80MHz+ quadrature sampler using an FPGA and high-speed USB.
+ * adc-iq-2185-xp2/: An 80MHz+ quadrature sampler using an FPGA and high-speed USB.
 _
 * front_end/
- * [adrf6850-breakout/](radio/front_end/adrf6850-breakout/): Breakout board for the ADRF6850 100MHz to 1GHz receiver IC.
+ * adrf6850-breakout/: Breakout board for the ADRF6850 100MHz to 1GHz receiver IC.
 
 * vco_pll/
- * [adf4350-breakout/](radio/vco_pll/adf4350-breakout/): Breakout board for the ADF4350 VCO+PLL, tuning from 137.5MHz
+ * adf4350-breakout/: Breakout board for the ADF4350 VCO+PLL, tuning from 137.5MHz
    up to 4.4GHz.
 
 License
