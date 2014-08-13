@@ -1,0 +1,52 @@
+Cmp-Mod V01 Created by CvPcb (2014-03-01 BZR 4730)-product date = Saturday, April 05, 2014 'PMt' 11:08:14 PM
+
+BeginCmp
+TimeStamp = /533F37D0;
+Reference = C1;
+ValeurCmp = 100N;
+IdModule  = ipc_capc:IPC_CAPC1608X95N;
+EndCmp
+
+BeginCmp
+TimeStamp = /533F37E4;
+Reference = C2;
+ValeurCmp = 100N;
+IdModule  = ipc_capc:IPC_CAPC1608X95N;
+EndCmp
+
+BeginCmp
+TimeStamp = /533F380C;
+Reference = L1;
+ValeurCmp = L;
+IdModule  = ipc_indc:IPC_INDC1608X95N;
+EndCmp
+
+BeginCmp
+TimeStamp = /533F4CCC;
+Reference = P1;
+ValeurCmp = CONN_COAX;
+IdModule  = rf_sma:EMERSON_142-0701-801;
+EndCmp
+
+BeginCmp
+TimeStamp = /533F4CBA;
+Reference = P2;
+ValeurCmp = CONN_COAX;
+IdModule  = rf_sma:EMERSON_142-0701-801;
+EndCmp
+
+BeginCmp
+TimeStamp = /533F39C1;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = ipc_resc:IPC_RESC1608X55N;
+EndCmp
+
+BeginCmp
+TimeStamp = /533F3529;
+Reference = U1;
+ValeurCmp = EPCOS_DCC6C;
+IdModule  = epcos_dcc6c:EPCOS_DCC6C;
+EndCmp
+
+EndListe
