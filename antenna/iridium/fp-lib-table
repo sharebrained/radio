@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name ipc_capc)(type KiCad)(uri ${KISBMOD}/ipc_capc.pretty)(options "")(descr ""))
+  (lib (name ipc_resc)(type KiCad)(uri ${KISBMOD}/ipc_resc.pretty)(options "")(descr ""))
+  (lib (name ipc_indc)(type KiCad)(uri ${KISBMOD}/ipc_indc.pretty)(options "")(descr ""))
+  (lib (name rf_sma)(type KiCad)(uri ${KISBMOD}/rf_sma.pretty)(options "")(descr ""))
+  (lib (name epcos)(type KiCad)(uri ${KISBMOD}/epcos.pretty)(options "")(descr ""))
+)
